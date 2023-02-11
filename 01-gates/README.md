@@ -1,4 +1,4 @@
-# LAB 1
+# CV 1
 
 ### De Morganuv zákon
 
